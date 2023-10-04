@@ -62,12 +62,12 @@ Load the Naive Bayes models and choose the best-performing one.
 
 Use the selected model to make predictions on movie descriptions.
 
-- Part-2: FLAN-T5 Large Language Model
+## Part-2: FLAN-T5 Large Language Model
 
 
 This part of the notebook focuses on using the FLAN-T5 large language model for movie description classification.
 
-- 1 - Load Required Dependencies, Dataset, and LLM
+- ### 1 - Load Required Dependencies, Dataset, and LLM
 
 
 Set up the environment and load the necessary dependencies, dataset, and the FLAN-T5 model.
