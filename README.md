@@ -143,6 +143,7 @@ We employ the Synthetic Minority Over-sampling Technique (SMOTE) to address clas
 In this final subsection, we prepare a Logistic Regression Model for fraud detection. This involves selecting appropriate algorithms, training the models on the preprocessed data, and making predictions. We evaluate the model's performance using relevant metrics to assess its ability to detect fraudulent transactions.
 
 
+# Task-3
 
 # Customer Churn Prediction
 
