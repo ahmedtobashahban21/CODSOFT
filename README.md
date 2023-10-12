@@ -235,8 +235,7 @@ To replicate or build upon this project, you can follow the steps outlined in th
 
 ## Data
 
-The SMS dataset used for this project is not included in this repository but can be obtained from [source link]([your_dataset_source_link](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
-
+The SMS dataset used for this project is not included in this repository but can be obtained from [source link](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 
 
